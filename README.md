@@ -2,6 +2,9 @@
 
 Welcome to the our project management app "Bug Tracker". With the help of this simple yet robust app, you will be able to stay on top of all your projects and all the tasks associated with those projects. 
 
+The live version of the app can be accessed by clicking the link below:
+https://mighty-meadow-63283.herokuapp.com/
+
 When you build an application so many issues and ideas come your way that you need something to keep track of it, use Bug Tracker for all your developments! Easy, secure, accurate!
 
 ### The welcome screen is simple, just click the image to start the App.
